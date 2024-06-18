@@ -1,6 +1,7 @@
 package org.example.ecom_userservice;
 
-import org.example.ecom_userservice.security.repository.JpaRegisteredClientRepository;
+
+import org.example.ecom_userservice.security.repositories.JpaRegisteredClientRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
